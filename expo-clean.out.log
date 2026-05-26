@@ -1,0 +1,25 @@
+Expo Go local dev compatibility patch already applied.
+
+USB Expo setup is ready.
+Backend: http://127.0.0.1:8000/backend
+Expo: exp://127.0.0.1:8085
+ADB reverse:
+UsbFfs tcp:8000 tcp:8000
+UsbFfs tcp:8085 tcp:8085
+
+
+When Metro opens, press a to launch Expo Go on the phone.
+
+Starting project at C:\xampp\htdocs\Shoes\mobile-app
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Waiting on http://localhost:8085
+Logs for your project will appear below.
+Android node_modules\expo\AppEntry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Android node_modules\expo\AppEntry.js ▓▓░░░░░░░░░░░░░░ 18.4% ( 13/108)
+Android node_modules\expo\AppEntry.js ▓▓▓▓▓░░░░░░░░░░░ 32.4% (215/378)
+Android node_modules\expo\AppEntry.js ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 86.5% (508/548)
+Android node_modules\expo\AppEntry.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.7% (689/690)
+Android Bundled 15387ms node_modules\expo\AppEntry.js (690 modules)
+Android node_modules\expo\AppEntry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Android Bundled 190ms node_modules\expo\AppEntry.js (1 module)
